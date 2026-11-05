@@ -1,3 +1,3 @@
 # HEINet
 
-If you need the data, please contact the author directly via email at jixu@mail.ustc.edu.cn
+If you need the data, please contact the author directly via the email address provided in the paper.
